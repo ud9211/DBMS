@@ -36,3 +36,5 @@ SELECT * FROM Dept WHERE "Dept No"=101;
 
 UPDATE Dept SET "Dept No"=1 WHERE "DNAME"='CSE';
 select * from Dept;
+
+-- create, drop, alter, truncate, comment, rename
